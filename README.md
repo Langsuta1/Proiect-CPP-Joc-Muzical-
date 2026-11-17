@@ -1,5 +1,6 @@
 # Joc Muzical
 
+In jocul meu iti alegi unul din cele 3 instrumente muzicale initiale,(Pian, Chitara, Flaut) si vei putea canta cateva cantece cu acesta prin apasarea butoanelor de la tastatura, butoane care reprezinta note muzicale, fiind necesar sa fie apasate la momentul potrivit pentru a canta cantecul.
 
 
 
